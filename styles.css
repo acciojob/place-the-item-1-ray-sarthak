@@ -1,10 +1,10 @@
-.flex-container {
+.holder {
   display: flex;
   flex-wrap: wrap;
   background-color: DodgerBlue;
 	grid-gap:10px;
 }
-.flex-container > div {
+.holder > div {
   background-color: #f1f1f1;
   width: 100px;
   margin: 10px;
